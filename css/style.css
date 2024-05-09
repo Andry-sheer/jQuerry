@@ -1,0 +1,27 @@
+/* @media (min-width: 1920px) {
+  .container {
+      max-width: 1660px;
+  }
+}
+
+
+@media (min-width: 1440px) {
+  .container {
+      max-width: 1380px;
+  }
+}
+
+
+@media (min-width: 1024px) {
+  .container {
+      max-width: 964px;
+  }
+}
+
+
+@media (min-width: 768px) {
+  .container {
+      max-width: 708px;
+      margin: 0 auto;
+  }
+} */
